@@ -1,9 +1,9 @@
 #include "monty.h"
+
 /**
-  *f_nop- nothing
-  *@head: stack head
-  *@counter: line_number
-  *Return: no return
+ * f_nop - This opcode does nothing.
+ * @head: the stack of the head.
+ * @counter: iterator
  */
 void f_nop(stack_t **head, unsigned int counter)
 {
