@@ -1,3 +1,11 @@
+## Author(s) LinkedIn and emails
+-[Dorothy Dede Quao](https://www.linkedin.com/in/dorothy-dede-quao) (dedeyd70@gmail.com)
+-[Trudy Bannerman](https://www.linkedin.com/in/trudy-bannerman-williams-81a6ba24a/) (drtrudybannerman@gmail.com)
+-[Grace Amaning-Kwarteng](https://www.linkedin.com/in/grace-amaning-kwarteng) (graceamaningkwarteng@gmail.com)
+
+
+
+
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
