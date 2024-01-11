@@ -1,6 +1,8 @@
 ## Author(s) LinkedIn and emails
 -[Dorothy Dede Quao](https://www.linkedin.com/in/dorothy-dede-quao) (dedeyd70@gmail.com)
+
 -[Trudy Bannerman](https://www.linkedin.com/in/trudy-bannerman-williams-81a6ba24a/) (drtrudybannerman@gmail.com)
+
 -[Grace Amaning-Kwarteng](https://www.linkedin.com/in/grace-amaning-kwarteng) (graceamaningkwarteng@gmail.com)
 
 
